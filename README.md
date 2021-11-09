@@ -1,3 +1,1 @@
-<p align="center">
-  <img style="" src="rick.gif">
-</p>
+<img src="rick.gif">
