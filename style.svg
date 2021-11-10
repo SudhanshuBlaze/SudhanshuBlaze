@@ -1,26 +1,83 @@
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				@keyframes rotate {
+					0% {
+						transform: rotate(2deg);
+					}
+					100% {
+						transform: rotate(-2deg);
+					}
+				}
 
-<foreignObject width="100%" height="100%">
-<div xmlns="http://www.w3.org/1999/xhtml">
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Pacifico&display=swap');
-.color {
-/* font-family: 'Pacifico', cursive; */
-font-family: 'Dancing Script', cursive;
-font-size: 50px;
+				@keyframes gradientBackground {
+					0% {
+						background-position: 0% 50%;
+					}
+					50% {
+						background-position: 100% 50%;
+					}
+					100% {
+						background-position: 0% 50%;
+					}
+				}
 
-/* background: linear-gradient(90deg, darkred, darkorchid); */
-/* background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59); */
+				@keyframes fadeIn {
+					0% {
+						opacity: 0;
+					}
+					66% {
+						opacity: 0;
+					}
+					100% {
+						opacity: 1;
+					}
+				}
 
-background: linear-gradient(to right,#c0392b, #8e44ad);
+				.container {
+					font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 100%;
+					height: 400px;
+					background: linear-gradient(-45deg, #c0392b, #8e44ad);
+					background-size: 600% 400%;
+					animation: gradientBackground 10s ease infinite;
+					border-radius: 10px;
+					color: white;
+					text-align: center;
+				}
 
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-}
-</style>
-<h1 class="color" >
-    hello, I'm Sudhanshu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>
-</div>
-</foreignObject>
-
+				p {
+					font-size: 50px;
+					line-height: 1.3;
+					letter-spacing: 5px;
+					text-transform: uppercase;
+					text-shadow:
+						0 1px 0 #efefef,
+						0 2px 0 #efefef,
+						0 3px 0 #efefef,
+						0 4px 0 #efefef,
+						0 12px 5px rgba(0, 0, 0, 0.1);
+					animation: rotate ease-in-out 1s infinite alternate;
+				}
+			</style>
+			<div class="container">
+				<p>hello, I'm Sudhanshu</p>
+			</div>
+		</div>
+	</foreignObject>
 </svg>

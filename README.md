@@ -1,6 +1,7 @@
 <div align="center">
 <img src="./style.svg" width="400" height="400" alt="css-in-readme">
-    <img style="margin-bottom:10px; margin-top:-20px" src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
+
+<img style="margin-bottom:10px; margin-top:-20px" src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
 
 </div>
 
