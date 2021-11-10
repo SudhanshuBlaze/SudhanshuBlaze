@@ -1,10 +1,10 @@
-<div align="center">
-   <h1>hello, I'm Sudhanshu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
-   
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hello+I'm+Sudhanshu)](https://git.io/typing-svg)
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
+</div>
 <p align='center'>
    <a href="https://www.linkedin.com/in/sudhanshublaze/"><img height="30" src="linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/SudhanshuBlaze"><img height="30" src="twitter.png"></a>&nbsp;&nbsp;
