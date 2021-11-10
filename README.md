@@ -1,5 +1,5 @@
 <div align="center">
-<img src="style.svg" alt="css-in-readme">
+<img src="style.svg" alt="css-in-readme" height="200" width="400">
 
 <img style="margin-bottom:10px; margin-top:-20px" src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
 
