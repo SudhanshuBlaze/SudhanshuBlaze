@@ -53,6 +53,6 @@
   <code><img height="20" src="https://avatars.githubusercontent.com/u/45109972"></code>
   <code><img height="20" src="https://avatars.githubusercontent.com/u/21206976"></code>
   <code><img height="20" src="https://avatars.githubusercontent.com/u/365630"></code>
-  <code><img height="20" src="https://camo.githubusercontent.com/109927a15915074d15313889468aa9aa688de3b9e38cc4359a01f665d351114e/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667https://camo.githubusercontent.com/109927a15915074d15313889468aa9aa688de3b9e38cc4359a01f665d351114e/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667"></code>
+  <code><img height="20" src="https://avatars.githubusercontent.com/u/215947"></code>
 
 - Other: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
