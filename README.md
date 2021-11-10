@@ -1,25 +1,7 @@
-<!-- <style>
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Pacifico&display=swap');
-.color {
-/* font-family: 'Pacifico', cursive; */
-font-family: 'Dancing Script', cursive;
-font-size: 50px;
-
-/* background: linear-gradient(90deg, darkred, darkorchid); */
-/* background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59); */
-
-background: linear-gradient(to right,#c0392b, #8e44ad);
-
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-}
-
-</style> -->
-
 <div align="center">
-   <h1 class="color" >
-    hello, I'm Sudhanshu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>
+<img src="./style.svg" width="400" height="400" alt="css-in-readme">
     <img style="margin-bottom:10px; margin-top:-20px" src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
+
 </div>
 
 <p align='center'>
