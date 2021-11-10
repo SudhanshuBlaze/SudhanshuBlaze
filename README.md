@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Pacifico&display=swap');
 .color {
 /* font-family: 'Pacifico', cursive; */
@@ -14,7 +14,7 @@ background: linear-gradient(to right,#c0392b, #8e44ad);
 -webkit-text-fill-color: transparent;
 }
 
-</style>
+</style> -->
 
 <div align="center">
    <h1 class="color" >
@@ -39,7 +39,7 @@ background: linear-gradient(to right,#c0392b, #8e44ad);
 
 <br />
 
-<img style="float:right" alt="GIF" src="code2.gif" width="400" height="250" />
+<img align="right" alt="GIF" src="code2.gif" width="400" height="250" />
 
 - 🎓 3rd year CSE undergrad at [Parala Maharaja Engineering College, Odisha.](https://www.pmec.ac.in/) <code>Graduation: 2023</code>
 - 🥀 Learning Next.js <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
