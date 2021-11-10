@@ -20,7 +20,7 @@
 
 </div>
 
-<img align="right" alt="GIF" src="code2.gif" width="400" height="250" />
+<img align="right" alt="GIF" src="code2.gif" width="400" height="300" />
 
 - 🎓 3rd year CSE undergrad at [Parala Maharaja Engineering College, Odisha.](https://www.pmec.ac.in/) <code>Graduation: 2023</code>
 - 🥀 Learning Next.js <code><img height="20" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"></code>
