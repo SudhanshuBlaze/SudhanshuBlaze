@@ -50,6 +50,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://user-imag![tensorflow](https://user-images.githubusercontent.com/63813872/141107013-761a3ba0-8f33-403a-b58a-04789cfeeea1.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/63813872/141107071-1349cc45-6840-4410-9fbb-aa492700b9bb.png"></code>
-</div>
+<code><img height="20" src="https://user-imag![nextjs](https://user-images.githubusercontent.com/63813872/141107377-63c5d706-ee18-4a0a-bda7-53ff15511048.png)
+"></code>
 
+</div>
