@@ -8,7 +8,7 @@
 <p align='center'>
    <a href="https://www.linkedin.com/in/sudhanshublaze/"><img height="30" src="linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/SudhanshuBlaze"><img height="30" src="twitter.png"></a>&nbsp;&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/sudhanshublaze/profile"><img height="30" src="gfg.png"></a>&nbsp;&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/sudhanshublaze/articles"><img height="30" src="gfg.png"></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/SudhanshuBlaze"><img height="30" src="hackerrank.png"></a>&nbsp;&nbsp;
 <a href="https://dev.to/sudhanshublaze"><img height="30" src="devto.png"></a>&nbsp;&nbsp;
  </p>
