@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hello,+I'm+Sudhanshu)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hello,+I'm+Sudhanshu)
 
 <div align="center">
 
