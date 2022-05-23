@@ -23,7 +23,7 @@
 <img align="right" alt="GIF" src="code2.gif" width="400" height="300" />
 
 - 🎓 3rd year CSE undergrad at [Parala Maharaja Engineering College, Odisha.](https://www.pmec.ac.in/) <code>Graduation: 2023</code>
-- 🥀 Learning Next.js <code><img height="20" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"></code>
+- 🥀 Learning Docker <code><img height="20" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code>
 
   - <i>with Javascript, Express, React and 69 others.</i>👨‍💻
 
