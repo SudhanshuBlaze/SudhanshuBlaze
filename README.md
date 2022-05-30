@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hello,+I'm+Sudhanshu)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hello,+I'm+Sudhanshu)
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 <p align='center'>
    <a href="https://www.linkedin.com/in/sudhanshublaze/"><img height="30" src="linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/SudhanshuBlaze"><img height="30" src="twitter.png"></a>&nbsp;&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/sudhanshublaze/profile"><img height="30" src="gfg.png"></a>&nbsp;&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/sudhanshublaze/articles"><img height="30" src="gfg.png"></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/SudhanshuBlaze"><img height="30" src="hackerrank.png"></a>&nbsp;&nbsp;
 <a href="https://dev.to/sudhanshublaze"><img height="30" src="devto.png"></a>&nbsp;&nbsp;
  </p>
@@ -23,7 +23,7 @@
 <img align="right" alt="GIF" src="code2.gif" width="300" height="200" />
 
 - 🎓 3rd year CSE undergrad at [Parala Maharaja Engineering College, Odisha.](https://www.pmec.ac.in/) <code>Graduation: 2023</code>
-- 🥀 Learning Next.js <code><img height="20" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"></code>
+- 🥀 Learning Docker <code><img height="20" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code>
 
   - <i>with Javascript, Express, React and 69 others.</i>👨‍💻
 
