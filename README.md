@@ -5,6 +5,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
 </div>
+
 <p align='center'>
    <a href="https://www.linkedin.com/in/sudhanshublaze/"><img height="30" src="linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/SudhanshuBlaze"><img height="30" src="twitter.png"></a>&nbsp;&nbsp;
@@ -19,8 +20,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=SudhanshuBlaze.SudhanshuBlaze)
 
 </div>
-
 <img align="right" alt="GIF" src="code2.gif" width="400" />
+
+- <strong>Experience:</strong> AI Engineer @ [Digital Product school, Germany.](https://www.digitalproductschool.io) <code>May 10 - July 29, 2022</code>
 
 - 🎓 3rd year CSE undergrad at [Parala Maharaja Engineering College, Odisha.](https://www.pmec.ac.in/) <code>Graduation: 2023</code>
 - 🥀 Learning Docker <code><img height="20" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code>
