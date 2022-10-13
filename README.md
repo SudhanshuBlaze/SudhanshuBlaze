@@ -22,7 +22,7 @@
 </div>
 <img align="right" alt="GIF" src="code2.gif" width="400" />
 
-- <strong>Experience:</strong> SWE @ [Digital Product school, Germany✈](https://www.digitalproductschool.io) <code>May 10 - Present</code>
+- <strong>Experience:</strong> SWE Intern @ [Digital Product school, Germany✈](https://www.digitalproductschool.io) <code>May 10 - Present</code>
 
 - 🎓 Final year CSE undergrad at [Parala Maharaja Engineering College, Odisha.](https://www.pmec.ac.in/) <code>Graduation: 2023</code>
 - 🥀 Learning Docker <code><img height="20" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code>
