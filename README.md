@@ -24,7 +24,7 @@
 
 - <strong>Experience:</strong> SWE @ [Digital Product school, Germany✈](https://www.digitalproductschool.io) <code>May 10 - Present</code>
 
-- 🎓 3rd year CSE undergrad at [Parala Maharaja Engineering College, Odisha.](https://www.pmec.ac.in/) <code>Graduation: 2023</code>
+- 🎓 Final year CSE undergrad at [Parala Maharaja Engineering College, Odisha.](https://www.pmec.ac.in/) <code>Graduation: 2023</code>
 - 🥀 Learning Docker <code><img height="20" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code>
 
   - <i>with Javascript, Express, React and 69 others.</i>👨‍💻
