@@ -22,12 +22,12 @@
 </div>
 <img align="right" alt="GIF" src="code2.gif" width="400" />
 
-- <strong>Experience:</strong> SWE @ [Digital Product school, Germany✈](https://www.digitalproductschool.io) <code>May 10, 2022 - Dec 02, 2022</code>
+- <strong>Experience:</strong> SWE Intern @ [Digital Product school, Germany✈](https://www.digitalproductschool.io) <code>May 10, 2022 - Dec 2, 2022</code>
 
 - 🎓 Final year CSE undergrad at [Parala Maharaja Engineering College, Odisha.](https://www.pmec.ac.in/) <br/> <code>Graduation: 2023</code>
-- 🥀 Learning DevOps <code><img height="20" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code>
+- 🥀 Learning MLOps <code><img height="20" src="https://mlops.toys/images/projects/cml.png"/></code>
 
-  - <i>with Javascript, Express, React and 69 others.</i>👨‍💻
+- <i>with Generative AI, NextJs, Web Scraping, and 69 others.</i>👨‍💻
 
 - 🦾 Machine Learning and Deep Learning Engineer <code><img height="20" src="https://www.tensorflow.org/images/tf_logo_horizontal.png"></code>
 
@@ -38,7 +38,11 @@
 - 💼 any freelance work? do reach, [gmail 📧](mailto:skrourkela@gmail.com)
 - 💬 ask me anything, I am happy to help 🤗
 
-**languages and tools:**
+## My Stats 📊
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SudhanshuBlaze&hide=issues&count_private=true&show_icons=true&repo=github-readme-stats&show_icons=true&theme=radical" />
+
+**Technologies:**
 
 - Web: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -57,4 +61,4 @@
   <code><img height="20" src="https://avatars.githubusercontent.com/u/365630"></code>
   <code><img height="20" src="https://avatars.githubusercontent.com/u/215947"></code>
 
-- Other: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+- Other: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> <code><img height="20" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code>
