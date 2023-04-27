@@ -17,7 +17,7 @@
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Sudhanshu Kumar | 🤖 AI Engineer |  💻 Full Stack Developer | 🛸 Odisha, India<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
-![](https://visitor-badge.glitch.me/badge?page_id=SudhanshuBlaze.SudhanshuBlaze)
+![](https://komarev.com/ghpvc/?username=SudhanshuBlaze)
 
 </div>
 <img align="right" alt="GIF" src="code2.gif" width="400" />
