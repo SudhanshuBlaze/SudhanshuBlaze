@@ -22,10 +22,10 @@
 </div>
 <img align="right" alt="GIF" src="code2.gif" width="400" />
 
-- <strong>Experience:</strong> AI Engineer @ [Digital Product school, Germany✈](https://www.digitalproductschool.io) <code>May 10 - July 29, 2022</code>
+- <strong>Experience:</strong> SWE @ [Digital Product school, Germany✈](https://www.digitalproductschool.io) <code>May 10, 2022 - Dec 02, 2022</code>
 
-- 🎓 3rd year CSE undergrad at [Parala Maharaja Engineering College, Odisha.](https://www.pmec.ac.in/) <code>Graduation: 2023</code>
-- 🥀 Learning Docker <code><img height="20" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code>
+- 🎓 Final year CSE undergrad at [Parala Maharaja Engineering College, Odisha.](https://www.pmec.ac.in/) <br/> <code>Graduation: 2023</code>
+- 🥀 Learning DevOps <code><img height="20" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code>
 
   - <i>with Javascript, Express, React and 69 others.</i>👨‍💻
 
