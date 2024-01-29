@@ -22,10 +22,10 @@
 </div>
 <img align="right" alt="GIF" src="code2.gif" width="400" />
 
-- <strong>Experience:</strong> SWE Intern @ [Digital Product school, Germany✈](https://www.digitalproductschool.io) <code>May 10, 2022 - Dec 2, 2022</code>
+- <strong>Experience:</strong> AI Engineer Intern @ [Digital Product school, Germany✈](https://www.digitalproductschool.io) <code>May 10, 2022 - July 30, 2023</code>
 
-- 🎓 Final year CSE undergrad at [Parala Maharaja Engineering College, Odisha.](https://www.pmec.ac.in/) <br/> <code>Graduation: 2023</code>
 - 🥀 Learning MLOps <code><img height="20" src="https://mlops.toys/images/projects/cml.png"/></code>
+- 🎓 Btech CSE grad from [Parala Maharaja Engineering College, Odisha.](https://www.pmec.ac.in/) <br/> <code>2019 - 2023</code>
 
 - <i>with Generative AI, NextJs, Web Scraping, and 69 others.</i>👨‍💻
 
