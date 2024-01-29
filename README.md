@@ -25,13 +25,14 @@
 - <strong>Experience:</strong> AI Engineer Intern @ [Digital Product school, Germany✈](https://www.digitalproductschool.io) <code>May 10, 2022 - July 30, 2023</code>
 
 - 🥀 Learning MLOps <code><img height="20" src="https://mlops.toys/images/projects/cml.png"/></code>
-- 🎓 Btech CSE grad from [Parala Maharaja Engineering College, Odisha.](https://www.pmec.ac.in/) <br/> <code>2019 - 2023</code>
 
-- <i>with Generative AI, NextJs, Web Scraping, and 69 others.</i>👨‍💻
+  - <i>with Generative AI, NextJs, Web Scraping, and 69 others.</i>👨‍💻
 
 - 🦾 Machine Learning and Deep Learning Engineer <code><img height="20" src="https://www.tensorflow.org/images/tf_logo_horizontal.png"></code>
 
   - 🧠 I process Natural Language with my friends spaCy and NLTK. 🤖
+
+- 🎓 Btech CSE grad from [Parala Maharaja Engineering College, Odisha.](https://www.pmec.ac.in/) <br/> <code>2019 - 2023</code>
 
 - Stay hungry, Stay foolish!
 
