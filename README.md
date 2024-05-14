@@ -21,7 +21,8 @@
 </div>
 <img align="right" alt="GIF" src="code2.gif" width="400" />
 
-- <strong>Experience:</strong> AI Engineer @ [LSBG, Hamburg✈](https://lsbg.hamburg.de/) 🇩🇪 <code>Feb 1, 2024 - Present</code>
+- <strong>Experience:</strong> AI Engineer @ [LSBG, Hamburg](https://lsbg.hamburg.de/) 🇩🇪🛩️
+    - <code>Feb 1, 2024 - Present</code>
 
 - 🥀 Learning MLOps <code><img height="20" src="https://mlops.toys/images/projects/cml.png"/></code>
 
