@@ -1,9 +1,8 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hello,+I'm+Sudhanshu)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hello,+I'm+Sudhanshu) 
 
 <div align="center">
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-<img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
 <p align='center'>
@@ -22,7 +21,7 @@
 </div>
 <img align="right" alt="GIF" src="code2.gif" width="400" />
 
-- <strong>Experience:</strong> AI Engineer Intern @ [Digital Product school, Germany✈](https://www.digitalproductschool.io) <code>May 10, 2022 - July 30, 2023</code>
+- <strong>Experience:</strong> AI Engineer @ [LSBG, Hamburg✈](https://lsbg.hamburg.de/) 🇩🇪 <code>Feb 1, 2024 - Present</code>
 
 - 🥀 Learning MLOps <code><img height="20" src="https://mlops.toys/images/projects/cml.png"/></code>
 
@@ -32,7 +31,7 @@
 
   - 🧠 I process Natural Language with my friends spaCy and NLTK. 🤖
 
-- 🎓 Btech CSE grad from [Parala Maharaja Engineering College, Odisha.](https://www.pmec.ac.in/) <br/> <code>2019 - 2023</code>
+- 🎓 B.tech CSE grad from [Parala Maharaja Engineering College, Odisha.](https://www.pmec.ac.in/) <br/> <code>2019 - 2023</code>
 
 - Stay hungry, Stay foolish!
 
